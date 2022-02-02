@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382372203072",
+    "project_id": "singin-44c1e",
+    "storage_bucket": "singin-44c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382372203072:android:e4e89e3b316d3c64e06da5",
+        "android_client_info": {
+          "package_name": "com.example.login_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382372203072-20srvfeq56h132c1h7hraq99sk0tmdhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBE1EH8uIlpQU2_H-41D1TkT-vI_YZOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382372203072-20srvfeq56h132c1h7hraq99sk0tmdhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
